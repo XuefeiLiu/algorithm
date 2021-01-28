@@ -1,0 +1,6 @@
+LC15(3Sum): two pointers, sorted array
+LC16(3 sum closet):two pointers, sorted array
+LC17:backtracking, dp
+LC18(4 SUM):recursion + two pointers
+LC19:two pointers linked list
+LC20:stack
