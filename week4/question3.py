@@ -24,7 +24,7 @@ class Solution:
 
         return count, smaller, larger
     
-    def kthSmallest(self, matrix: List[List[int]], k: int) -> int:
+    def kthSmallest(self, matrix， k):
         
         n = len(matrix)
         start, end = matrix[0][0], matrix[n - 1][n - 1]
